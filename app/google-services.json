@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710604640592",
+    "firebase_url": "https://cryptobagtutors-default-rtdb.firebaseio.com",
+    "project_id": "cryptobagtutors",
+    "storage_bucket": "cryptobagtutors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710604640592:android:4b879df9b9bfe448891c55",
+        "android_client_info": {
+          "package_name": "au.edu.unsw.infs3634.cryptobag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710604640592-tj3aqaka1kavn82i9mfsmpsp7sbu78gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_Qrd-Pc_83peg3UwNLvCTt8EyaPP2HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710604640592-tj3aqaka1kavn82i9mfsmpsp7sbu78gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
